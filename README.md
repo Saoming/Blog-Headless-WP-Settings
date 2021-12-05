@@ -1,0 +1,1 @@
+# Samuel WordPress Headless Theme Settings
